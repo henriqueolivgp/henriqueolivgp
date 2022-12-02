@@ -1,7 +1,9 @@
 <h1 align="left">Olá sou estudante de programação<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-[![HenryqueOlivGP's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueolivgp&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueolivgp&theme=tokyonight&layout=compact)](https://github.com/henriqueolivgp/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriqueolivgp&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Henry" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueolivgp&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 
 <div style="display: inline_block"><br>
