@@ -28,7 +28,6 @@
   <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" target="_blank"></a>
 </div>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henriqueoliv&show_icons=true&count_private=true&hide_border=true&theme=onedark&)](https://git.io/streak-stats)
 
   </div>
  
