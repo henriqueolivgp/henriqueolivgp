@@ -1,8 +1,8 @@
 <h1 align="left">Olá sou estudante de programação<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriqueolivgp&show_icons=true&count_private=true&hide_border=true&theme=onedark&bg_color=0d1117" alt="Status Henry" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueolivgp&layout=compact&hide_border=true&theme=onedark&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriqueolivgp&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" alt="Status Henry" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueolivgp&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
 </div>
 
 
