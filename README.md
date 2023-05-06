@@ -5,15 +5,16 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueolivgp&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
 </div>
 
+##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  ##
+ 
+ ##
  
 <div> 
   <a><h3><i>Redes Sociais</i></h3></a>
