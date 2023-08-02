@@ -29,4 +29,8 @@
   <img align="center" alt="Henry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  -->
- ![Snake animation](https://github.com/henriqueolivgp/henriqueolivgp/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/henriqueolivgp/henriqueolivgp/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/henriqueolivgp/henriqueolivgp/blob/output/github-contribution-grid-snake.svg">
+  <img alt="git hub Snack" src="https://github.com/henriqueolivgp/henriqueolivgp/blob/output/github-contribution-grid-snake.svg">
+</picture>
