@@ -1,5 +1,5 @@
 <h1 align="left">Hi! I'm a web development full stack student <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-<p>I like web development in react and interest in mobile development in react-native.</p>
+<p>I like web development in react and interest in mobile development with react-native.</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriqueolivgp&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&hide_rank=true" alt="Status Henry" /> 
