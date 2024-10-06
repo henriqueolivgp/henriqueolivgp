@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm a web development full stack student <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Hi! I'm a Web Development Full Stack and Network and Computer Systems student  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p>I like web development in react and interest in mobile development with react-native.</p>
 
 <div align="center">  
