@@ -3,12 +3,12 @@
 <p>I'm very interested in cybersecurity and electronic hacking.</p>
 
  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
+<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriqueolivgp&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&hide_rank=true" alt="Status Henry" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueolivgp&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
 </div>
-
+-->
 ##
 
 <h3>Code Editor's</h3>
