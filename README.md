@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm a Web Development Full Stack and Network and Computer Systems student  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Hi! I'm a Junior Web Development Full Stack<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p>I like web development in react and mobile development in react-native.</p>
 <p>I'm very interested in cybersecurity and electronic hacking.</p>
 
